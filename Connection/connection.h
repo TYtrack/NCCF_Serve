@@ -26,7 +26,7 @@
 #include "../Timer/timer.h"
 #include "../Log/log.h"
 
-#include "../CGImysql/sql_connection_pool.h"
+#include "../Mysql/mysql_connection_pool.h"
 
 class http_conn
 {
