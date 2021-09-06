@@ -4,8 +4,8 @@ int main(int argc, char *argv[])
 {
     //需要修改的数据库信息,登录名,密码,库名
     string user = "root";
-    string passwd = "q";
-    string databasename = "yourdb";
+    string passwd = "123456";
+    string databasename = "nccf_connection";
 
     //命令行解析
     Config config;
